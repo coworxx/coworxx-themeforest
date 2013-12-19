@@ -1,0 +1,12 @@
+{
+    "name": "coworxx/coworxx-template",
+    "description": "description_text",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Coworxx UG",
+            "email": "dev@coworxx.de"
+        }
+    ]
+}
